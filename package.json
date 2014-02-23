@@ -1,0 +1,19 @@
+{
+  "name": "watch-it",
+  "version": "0.0.0",
+  "description": "wrapper around fs.watch for recursive directory watching",
+  "main": "index.js",
+  "scripts": {
+    "test": "npm install && node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/thejoshwolfe/watch-it.git"
+  },
+  "author": "Josh Wolfe <thejoshwolfe@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/thejoshwolfe/watch-it/issues"
+  },
+  "homepage": "https://github.com/thejoshwolfe/watch-it"
+}
